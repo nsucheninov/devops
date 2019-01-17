@@ -1,0 +1,26 @@
+{
+  "name": "azure-storage",
+  "version": "0.0.1",
+  "description": "playing with Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "azure-storage": "^2.8.0",
+    "dotenv": "^5.0.1",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsucheninov/devops.git"
+  },
+  "keywords": [
+    "Start",
+    "Azure",
+    "Storage"
+  ],
+  "author": "sns",
+  "license": "MIT"
+}

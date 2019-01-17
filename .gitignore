@@ -1,0 +1,12 @@
+.env
+appsettings.json
+
+*.log
+*.csproj
+
+node_modules/
+.vscode/
+.vs/
+Properties/
+bin/
+obj/

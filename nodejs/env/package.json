@@ -1,0 +1,29 @@
+{
+  "name": "get-env",
+  "version": "0.0.1",
+  "description": "Learn to use Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "lodash": "^4.17.11",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsucheninov/devops.git"
+  },
+  "keywords": [
+    "Start",
+    "Env"
+  ],
+  "author": "sns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsucheninov/devops/get-env/issues"
+  },
+  "homepage": "https://github.com/nsucheninov/devops/get-env#readme"
+}
